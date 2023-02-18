@@ -1,6 +1,11 @@
 # 使用说明
 欢迎Fork本项目，Replit-On-Alist
 
+一键搭建脚本
+```
+bash <(curl -s https://raw.githubusercontent.com/sxbai/alist-on-replit/master/run.sh)
+```
+
 ```bash
 chmod +x sx && ./sx server
 ```
