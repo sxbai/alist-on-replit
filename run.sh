@@ -1,4 +1,3 @@
-wget -O .replit https://raw.githubusercontent.com/sxbai/alist-on-replit/master/.replit
-wget -O main.sh https://raw.githubusercontent.com/sxbai/alist-on-replit/master/main.sh
-wget https://www.sxbai.repl.co/sx
-chmod +x sx
+git clone https://github.com/sxbai/alist-on-replit.git
+mv alist-on-replit/* .
+cp -r alist-on-replit/.replit ./replit
