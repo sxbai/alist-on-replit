@@ -4,4 +4,4 @@ entrypoint = "main.sh"
 [nix]
 channel = "stable-22_11"
 [gitHubImport]
-requiredFiles = [".replit"]
+requiredFiles = [".replit","replit.nix"]
