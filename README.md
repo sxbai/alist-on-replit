@@ -1,7 +1,9 @@
 # 使用说明
 欢迎Fork本项目，Replit-On-Alist
 
+```bash
 chmod +x sx && ./sx server
+```
 
 上面一行命令复制粘贴到main.sh 最后点击Run运行项目即可。
 
