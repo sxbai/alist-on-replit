@@ -6,6 +6,11 @@
 bash <(curl -s https://raw.githubusercontent.com/sxbai/alist-on-replit/master/run.sh)
 ```
 
+一键搭建更新脚本[当前3.12.0] (环境选择`Bash` 或 `Blank Repl`)
+```
+bash <(curl -s https://raw.githubusercontent.com/sxbai/alist-on-replit/master/update.sh)
+```
+
 # 2023年2月15日通知
 Replit开始大面积封控alist项目，不少朋友alist都糟了殃，目前解决办法就是换马甲，奇怪的是博主大号的alist项目一切正常，但保不齐明天出意外呢，于是我重新编译了alist的二进制文件，以防万一！且用且珍惜！！！ 
 
