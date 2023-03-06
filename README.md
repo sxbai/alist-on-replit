@@ -6,7 +6,7 @@
 bash <(curl -s https://raw.githubusercontent.com/sxbai/alist-on-replit/master/run.sh)
 ```
 
-一键更新脚本[当前3.13.0] (环境选择`Bash` 或 `Blank Repl`)
+一键更新脚本[当前3.13.1] (环境选择`Bash` 或 `Blank Repl`)
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/alist-on-replit/master/update.sh)
 ```
