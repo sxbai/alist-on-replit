@@ -1,5 +1,5 @@
 # 使用说明
-欢迎Fork本项目，Replit-On-Alist
+欢迎Fork本项目，Alist-On-Replit
 
 一键搭建脚本 (环境选择`Bash` 或 `Blank Repl`)
 ```
