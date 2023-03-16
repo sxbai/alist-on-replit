@@ -14,4 +14,4 @@ echo "恭喜搭建完成"
 echo "点击Run立即运行项目"
 echo "查询用户名及密码运行下面命令"
 echo "./sx admin"
-rm -rf build/ && rm run.sh
+rm -rf build/
