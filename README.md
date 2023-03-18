@@ -35,3 +35,6 @@ Replit开始大面积封控alist项目，不少朋友alist都糟了殃，目前�
 ## Alist 编译二进制文件说明
 - 端口改为`8080`
 - 二进制文件改为`sx`
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sxbai/alist-on-replit&type=Date)](https://star-history.com/#sxbai/alist-on-replit&Date)
