@@ -8,7 +8,7 @@ wget -O .replit https://github.com/sxbai/alist-on-replit/raw/master/.replit
 wget -O replit.nix https://github.com/sxbai/alist-on-replit/raw/master/replit.nix
 cd ..
 wget -O main.sh https://github.com/sxbai/alist-on-replit/raw/master/main.sh
-wget -O sx https://down.sxbai.repl.co/alist/v3.14.0/alist3.14.0
+wget -O sx https://down.sxbai.repl.co/alist/v3.15.0/alist3.15.0
 cp -r build/.replit . && cp -r build/replit.nix .
 echo "恭喜搭建完成"
 echo "点击Run立即运行项目"
