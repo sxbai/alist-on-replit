@@ -24,7 +24,7 @@
 bash <(curl -s https://raw.githubusercontent.com/sxbai/alist-on-replit/master/run.sh)
 ```
 
-一键更新脚本[当前Alist-v3.14.0`更新时间2023年03月16日`]
+一键更新脚本[当前Alist-v3.15.0`更新时间2023年03月25日`]
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/alist-on-replit/master/update.sh)
 ```
